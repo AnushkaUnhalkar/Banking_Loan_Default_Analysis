@@ -1,0 +1,38 @@
+Student 8: Anushka Rajendra Unhalkar
+
+Project Title: Banking Loan Default Analysis
+
+Project Overview:
+Analyze bank loan data to predict defaults and identify high-risk clients.
+
+SQL Tasks:
+• Retrieve total loans disbursed per branch.
+• Find customers with overdue loans.
+• Calculate average loan amount by type.
+• Identify defaulted loans by customer segment.
+• Rank branches by number of defaulters.
+• Count loans approved vs rejected per branch.
+• Identify high-risk customers based on repayment history.
+
+Pandas Tasks:
+• Load and clean the loan dataset.
+• Handle missing values and encode categorical features.
+• Calculate repayment rate per customer.
+• Determine correlation between income, loan amount, and defaults.
+• Segment customers by risk profile.
+• Predict default probability using logistic regression (optional).
+• Analyze loan approval trends over time.
+• Visualize top 10 branches by repayment performance.
+
+Power BI Tasks:
+• Loan default dashboard with branch-wise metrics.
+• Customer segmentation by risk profile.
+
+Final DA Project
+• Loan amount distribution charts.
+• KPI cards: total loans, default %, average loan amount.
+• Trend charts for approvals and defaults.
+• Interactive slicers for loan type, branch, risk level.
+• Geo-map of default rates by branch.
+
+Dataset: Kaggle – “Bank Loan dataset”
